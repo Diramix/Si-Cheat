@@ -2,10 +2,12 @@
 // @name         Si-Cheat
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  Cheats for SiGame!
+// @description  Cheats for SIGame!
 // @author       Diramix
 // @match        https://sigame.vladimirkhil.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=vladimirkhil.com
+// @icon         https://github.com/Diramix/Si-Cheat/blob/main/src/icon.png?raw=true
+// @updateURL    https://github.com/Diramix/Si-Cheat/raw/refs/heads/main/src/si-cheat.user.js
+// @downloadURL  https://github.com/Diramix/Si-Cheat/raw/refs/heads/main/src/si-cheat.user.js
 // @grant        none
 // ==/UserScript==
 
