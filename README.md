@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/Diramix/Si-Cheat/raw/refs/heads/main/src/si-cheat.user.js" class="image-button">
-      <img width="400" src="https://github.com/Diramix/Si-Cheat/blob/main/doc/install-button.png?raw=true" alt="Install Button">
+      <img width="250" src="https://github.com/Diramix/Si-Cheat/blob/main/doc/install-button.png?raw=true" alt="Install Button">
   </a>
 </p>
 
